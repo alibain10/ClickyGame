@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/images/Brooks.JPG", 
+        "name": "Brooks"
+    },
+    {
+        "id": 2,
+        "image": "/images/Bryant.jpg", 
+        "name": "Bryant"
+    },
+    {
+        "id": 3,
+        "image": "/images/Gwynn.jpg", 
+        "name": "Gwen"
+    },
+    {
+        "id": 4,
+        "image": "/images/Huner.jpg", 
+        "name": "Huner"
+    },
+    {
+        "id": 5,
+        "image": "/images/Jeter.jpg", 
+        "name": "Jeter"
+    },
+    {
+        "id": 6,
+        "image": "/images/Koufax.jpg", 
+        "name": "Koufax"
+    },
+    {
+        "id": 7,
+        "image": "/images/Mantle.jpg", 
+        "name": "Mantle"
+    },
+    {
+        "id": 8,
+        "image": "/images/yondu-guardian.jpg", 
+        "name": "Yondu"
+    },
+    {
+        "id": 9,
+        "image": "/images/Renefro.jpg", 
+        "name": "Renefroe"
+    },
+    {
+        "id": 10,
+        "image": "/images/Ripken.jpg", 
+        "name": "Ripken"
+    },
+    {
+        "id": 11,
+        "image": "/images/Shreve.jpg", 
+        "name": "Shreve"
+    },
+    {
+        "id": 12,
+        "image": "/images/Turner.jpg", 
+        "name": "Turner"
+    }
+]
